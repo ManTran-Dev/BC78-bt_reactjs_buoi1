@@ -1,0 +1,14 @@
+Buổi 1
+
+*Baitap1 (index)
+- Header
+- Navbar
+- Content
+- Footer 
+
+*Baitap2 (index)
+- Header
+- Carousel
+- ListCard
+- Card 
+- Footer
